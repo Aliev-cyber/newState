@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.blog-list {
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top:20px;
+  padding: 0 auto;
+  gap: 20px;
+  background-color: black;
+}
